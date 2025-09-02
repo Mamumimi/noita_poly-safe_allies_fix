@@ -1,0 +1,3 @@
+<Entity>
+	<GameEffectComponent effect="CHARM" />
+</Entity>

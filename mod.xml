@@ -1,0 +1,5 @@
+<Mod
+	name="Poly-Safe Allies Fix"
+	description="Allies won't target you when you're polymorphed. Probably."
+	request_no_api_restrictions="0" 
+/>

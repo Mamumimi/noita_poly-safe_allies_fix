@@ -1,0 +1,3 @@
+<Entity>
+	<LuaComponent script_source_file="mods/poly_safe_allies_fix/files/charmer.lua" />
+</Entity>
