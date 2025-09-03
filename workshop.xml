@@ -1,9 +1,11 @@
 <Mod
     name="Poly-Safe Allies Fix"
     description="Allies won't target you when you're polymorphed. Probably.
-    I almost never use allies since they're going to try their hardest to kill me if I get polymorphed... This mod fixes that! But beware, you are still vulnerable to friendly-fire! It works by applying a temporary invisible pheromone effect to the player whenever they're polymorphed, so it should work with all modded allies and poly effects.
+    I almost never use allies since they're going to try their hardest to kill me if I get polymorphed... This mod fixes that!
+    It works by applying a temporary invisible pheromone effect to the player whenever they're polymorphed.
+    This does not prevent damage, it just makes it so they won't attack you on purpose.
 
-    Untested in multiplayer, but it should probably work."
+    Untested in multiplayer, but it could maybe work."
     tags="gameplay,quality of life,tweaks"
     >
 </Mod>
