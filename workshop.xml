@@ -4,7 +4,9 @@
 
     I almost never use allies since they're going to try their hardest to kill me if I get polymorphed... This mod fixes that! It works by applying a temporary invisible pheromone effect to the player whenever they're polymorphed. This does not prevent damage, it just makes it so they won't attack you on purpose.
 
-    Untested in multiplayer, but I've done my best to make it compatible."
+    Untested in multiplayer, but I've done my best to make it compatible.
+    
+    Also on GitHub: [Poly-Safe Allies Fix](https://github.com/Mamumimi/noita_poly-safe_allies_fix/releases/tag/v1.0.0)"
     tags="gameplay,quality of life,tweaks"
     >
 </Mod>
