@@ -14,4 +14,4 @@ Untested in multiplayer, but I've done my best to make it compatible.
  - Filepath to init.lua should be: '.../Noita/mods/poly_safe_allies_fix/init.lua'
  - Enable the mod in Noita's mod menu.
 
-Also on Steam Workshop: [Poly-Safe Allies Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=356165834)
+Also on Steam Workshop: [Poly-Safe Allies Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=3561658347)
