@@ -1,4 +1,4 @@
 <Entity>
 	<LuaComponent script_source_file="mods/poly_safe_allies_fix/files/charmer.lua"/>
-	<LifetimeComponent lifetime="10"/> <!--To prevent a buildup of applier entities in case they aren't killed by charmer.lua for some reason. Minimum effective lifetime is 2-->
+	<LifetimeComponent lifetime="2"/> <!--Added to make sure the entity dies even if the script fails-->
 </Entity>
